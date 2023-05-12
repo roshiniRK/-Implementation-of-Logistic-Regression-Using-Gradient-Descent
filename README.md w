@@ -113,7 +113,28 @@ np.mean(predict(res.x,X)==y)
 ```
 
 ## Output:
-![logistic regression using gradient descent](sam.png)
+### Array value of x
+
+### Array Value of y
+
+### Exam 1- Score graph
+
+### Sigmoid Function Graph
+
+### X_train_grad value
+
+### Y_train_grad value
+
+### Print(res.x)
+
+### Decision Boundary graph for Exam Score
+
+
+### Probability value
+
+
+### Prediction value of mean
+
 
 
 ## Result:
