@@ -114,27 +114,37 @@ np.mean(predict(res.x,X)==y)
 
 ## Output:
 ### Array value of x
+![ML51](https://github.com/roshiniRK/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118956165/b98beff6-e934-435f-9ac5-c40979e18a78)
 
 ### Array Value of y
+![ML52](https://github.com/roshiniRK/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118956165/d1044782-ef62-4094-9434-fe2da63d3338)
 
 ### Exam 1- Score graph
+![ML53](https://github.com/roshiniRK/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118956165/e16a5e12-ee0f-44c2-ae40-4fea5ee2e5b9)
 
 ### Sigmoid Function Graph
+![ML54](https://github.com/roshiniRK/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118956165/f4424bdf-56bf-41d4-a44e-cb11c1fc8c82)
 
 ### X_train_grad value
+![ML55](https://github.com/roshiniRK/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118956165/2b484411-4120-43f6-952a-72926103cf13)
 
 ### Y_train_grad value
+![ML56](https://github.com/roshiniRK/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118956165/cda1ea39-ff28-4271-a8b3-167cb421bb12)
 
 ### Print(res.x)
+![ML57](https://github.com/roshiniRK/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118956165/41ab779b-8d86-42db-8ddc-500acf348a4c)
 
 ### Decision Boundary graph for Exam Score
 
+![ML58](https://github.com/roshiniRK/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118956165/9b4fa63e-b92e-4f00-a671-695146d39672)
 
 ### Probability value
 
+![ML59](https://github.com/roshiniRK/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118956165/584ef865-086f-4ada-84de-b7dc51813cfe)
 
 ### Prediction value of mean
 
+![ML510](https://github.com/roshiniRK/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118956165/5e9b4600-c7d9-4153-b151-e9b47a1bc5ea)
 
 
 ## Result:
